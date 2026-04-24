@@ -10,7 +10,7 @@ It is designed to make disease awareness faster and easier by combining image-ba
 
 The architecture below shows how AgriVision handles image upload, preprocessing, model inference, CSV-based information mapping, and final result rendering inside the Flask application.
 
-![AgriVision Architecture](https://github.com/Kavyapushpala/AgriVision/blob/main/Deploy_app/static/docs/Aiengine.mp4)
+![AgriVision Architecture](./static/docs/Aiengine.mp4)
 
 ---
 

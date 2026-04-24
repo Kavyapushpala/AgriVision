@@ -1,4 +1,3 @@
-<img width="616" height="496" alt="ezgif-5e761844133234cf" src="https://github.com/user-attachments/assets/f10496bb-8fbf-43f4-abb1-fda020cc560f" />
 # AgriVision
 
 AgriVision is a Flask-based plant disease detection application that helps users identify possible plant diseases from leaf images using a trained deep learning model.
@@ -52,6 +51,7 @@ AgriVision allows users to:
 ### Home Page
 
 The home page introduces AgriVision, supported crop categories, and the main AI workflow in a cleaner responsive layout.
+<img width="616" height="496" alt="ezgif-5e761844133234cf" src="https://github.com/user-attachments/assets/f10496bb-8fbf-43f4-abb1-fda020cc560f" />
 
 [Watch Homepage Demo](https://raw.githubusercontent.com/Kavyapushpala/AgriVision/main/Deploy_app/static/docs/homepage.mp4)
 ### AI Engine

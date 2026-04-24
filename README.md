@@ -51,20 +51,21 @@ AgriVision allows users to:
 ### Home Page
 
 The home page introduces AgriVision, supported crop categories, and the main AI workflow in a cleaner responsive layout.
+
 <img width="616" height="496" alt="ezgif-5e761844133234cf" src="https://github.com/user-attachments/assets/f10496bb-8fbf-43f4-abb1-fda020cc560f" />
 
-[Watch Homepage Demo](https://raw.githubusercontent.com/Kavyapushpala/AgriVision/main/Deploy_app/static/docs/homepage.mp4)
 ### AI Engine
 
 The AI engine allows users to upload a leaf image or capture one using the camera before running prediction.
 
-[Watch AI Engine Video](https://raw.githubusercontent.com/Kavyapushpala/AgriVision/main/Deploy_app/static/docs/Aiengine.mp4)
+<img width="686" height="812" alt="ezgif-57edf4118944637f mp4-poster" src="https://github.com/user-attachments/assets/4abe362f-46d2-46df-b4de-53a93fe946e0" />
+
 
 ### Supplements Market
 
 Supplement Market contains the supplements for their respective disease of their kind.
 
-[Watch Supplements Demo](https://raw.githubusercontent.com/Kavyapushpala/AgriVision/main/Deploy_app/static/docs/supplements.mp4)
+<img width="372" height="454" alt="ezgif-51d29c9674f84a83" src="https://github.com/user-attachments/assets/c4a44a64-3b2d-4e57-b91d-2a4d550bcb8d" />
 
 ---
 

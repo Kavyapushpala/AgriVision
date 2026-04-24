@@ -121,6 +121,7 @@ Deploy_app/
 |   |-- about.html
 |   `-- contact-us.html
 `-- Readme
+|----test_images
 ```
 
 ---
